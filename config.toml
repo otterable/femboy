@@ -1,4 +1,4 @@
-baseURL = "https://femboy.github.io"
+baseURL = "https://otterable.github.io/femboy"
 theme = "risotto"
 title = "Femboy.at" 
 paginate = 3
@@ -32,14 +32,6 @@ description = "Otter collective. [An Ermine project.](https://ermine.de)"
 icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:ermine@ermine.de"
-
-[menu]
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
 
 [taxonomies]
 category = "categories"
